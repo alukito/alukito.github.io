@@ -1,16 +1,16 @@
 {
   "globals": {
     "blog": {
-      "title": "Casper",
-      "description": "Just a static blog.",
+      "title": "Live.Learn.Repeat",
+      "description": "Recording bits of life every now and then.",
       "logo": false,
       "cover": false,
       "url": "/"
     },
     "author": {
-      "name": "Kenneth Ormandy",
-      "email": "kenneth@chloi.io",
-      "bio": "Hi, I like Harp"
+      "name": "Andreas Lukito",
+      "email": "luk.andreas@gmail.com",
+      "bio": "Walking the path."
     }
   },
   "domains": []
